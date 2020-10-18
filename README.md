@@ -1,5 +1,7 @@
 # Laravel7-Shopping-Cart
 
+Online video tutorial: https://www.youtube.com/playlist?list=PLJcfFJsIvzULC05PBuwdwqB_KAj_CDKhc
+
 Create a New Project
 1) Use terminal and go to particular directory C:/xampp/htdocs
 2) Apply command composer create-project --prefer-dist laravel/laravel cart
